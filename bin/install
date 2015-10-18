@@ -4,7 +4,7 @@ source $OPENSHIFT_CARTRIDGE_SDK_BASH
 
 mkdir $OPENSHIFT_HOMEDIR/.passenger
 mkdir $OPENSHIFT_HOMEDIR/.npm
-mkdir $OPENSHIFT_HOMEDIR/.npmrc
+touch $OPENSHIFT_HOMEDIR/.npmrc
 
 # Skip installing documentation for gems.
 # This will speed up the gem install/bundle install process
