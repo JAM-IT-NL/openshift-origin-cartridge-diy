@@ -15,7 +15,7 @@ Compatible-Versions:
 - 0.0.12
 - 0.0.13
 - 0.0.14
-Cartridge-Vendor: redhat
+Cartridge-Vendor: jamit
 Vendor: redhat
 Categories:
 - web_framework
