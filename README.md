@@ -6,3 +6,6 @@ This cartridge is documented in the [Cartridge Guide](http://openshift.github.io
 * Create dir ~/.npm
 * Create dir ~/.npmrc
 * echo "gem: --no-document --no-ri --no-rdoc" > ~/.gemrc
+
+# Usage
+rhc create-app myapp http://cartreflect-claytondev.rhcloud.com/github/xenonl/openshift-origin-cartridge-diy
