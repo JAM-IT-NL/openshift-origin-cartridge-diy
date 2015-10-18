@@ -4,7 +4,7 @@ This cartridge is documented in the [Cartridge Guide](http://openshift.github.io
 # Changes
 * Create dir ~/.passenger
 * Create dir ~/.npm
-* Create dir ~/.npmrc
+* Touch ~/.npmrc
 * echo "gem: --no-document --no-ri --no-rdoc" > ~/.gemrc
 
 # Usage
