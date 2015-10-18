@@ -4,6 +4,7 @@ source $OPENSHIFT_CARTRIDGE_SDK_BASH
 
 mkdir $OPENSHIFT_HOMEDIR/.passenger
 mkdir $OPENSHIFT_HOMEDIR/.npm
+mkdir $OPENSHIFT_HOMEDIR/.config
 touch $OPENSHIFT_HOMEDIR/.npmrc
 
 # Skip installing documentation for gems.
