@@ -6,6 +6,7 @@ mkdir $OPENSHIFT_HOMEDIR/.passenger
 mkdir $OPENSHIFT_HOMEDIR/.npm
 mkdir $OPENSHIFT_HOMEDIR/.config
 mkdir $OPENSHIFT_HOMEDIR/.cache
+mkdir $OPENSHIFT_HOMEDIR/.local
 touch $OPENSHIFT_HOMEDIR/.npmrc
 
 # Skip installing documentation for gems.
